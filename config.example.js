@@ -11,18 +11,18 @@ module.exports = {
   // Your bot's user token. If you don't know what that is, go here:
   // https://discordapp.com/developers/applications/me
   // Then create a new application and grab your token.
-  token: '',
+  token: 'NjA4Mjk0NDA5MDg3NDgzOTE0.XYrQ8A.qI4nCmdzF-yPWgVqiAASKDXypa0',
   // YouTube Api Key required for searching by keywords. Not needed if only using a link.
-  youtubeApiKey: '',
+  youtubeApiKey: 'AIzaSyDFNoGoG5WcqxcKt6DtC8cDz-8gCQy7eLE',
 
   // The ID of the Discord server.
-  serverId: '',
+  serverId: '608260073776742403',
   // The ID of the text channel where I should listen for commands. If empty, will listen in all channels.
-  textChannelId: '',
+  textChannelId: '608260073776742409',
   // The ID of the voice channel where I will live.
-  voiceChannelId: '',
+  voiceChannelId: '608260074254762035',
   // The ID of the role required to interact with the bot. If empty, all roles will be allowed.
-  requiredRoleId: '',
+  requiredRoleId: '620777556576305155',
   // Set a custom playing message
   customPlayingMessage: 'Vibe.js | The joy of music.',
 
