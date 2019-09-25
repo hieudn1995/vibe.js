@@ -40,7 +40,7 @@
     "valid-url": "^1.0.9",
     "youtube-search": "^1.0.10"
   },
-  "repository": "https://github.com/tannerz28/vibe.js.git",
+  "repository": "https://github.com/hieudn1995/vibe.js.git",
   "jest": {
     "testEnvironment": "node"
   },
